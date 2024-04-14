@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "config.h": "c",
+    "http_server.h": "c",
+    "ap.h": "c",
+    "sta.h": "c",
+    "rtc.h": "c",
+    "esp_event.h": "c",
+    "esp_wifi.h": "c"
+  }
+}
